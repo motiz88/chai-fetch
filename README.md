@@ -9,6 +9,7 @@ Forked from Chai-HTTP. Work in progress.
 (The MIT License)
 
 Copyright (c) Moti Zilberman <motiz88@gmail.com>
+
 Chai-HTTP Copyright (c) Jake Luer <jake@alogicalparadox.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
