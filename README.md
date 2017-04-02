@@ -1,5 +1,7 @@
 # Chai Fetch
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/motiz88/chai-fetch.svg)](https://greenkeeper.io/)
+
 > Unopinionated Fetch API assertions for Chai.
 
 Forked from Chai-HTTP. Work in progress.
