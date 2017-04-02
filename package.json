@@ -46,14 +46,14 @@
     "querystring": "qs"
   },
   "dependencies": {
-    "cookiejar": "2.0.x",
-    "is-ip": "1.0.0",
-    "methods": "0.0.x",
-    "qs": "2.0.x",
-    "superagent": "1.2.x"
+    "cookiejar": "~2.1.0",
+    "is-ip": "2.0.0",
+    "methods": "~1.1.2",
+    "qs": "~6.4.0",
+    "superagent": "~3.5.2"
   },
   "devDependencies": {
-    "simplifyify": "^2.0.1",
+    "simplifyify": "^3.2.1",
     "chai": "*",
     "coveralls": "^2.11.6",
     "dox": "*",
@@ -61,7 +61,7 @@
     "http-server": "*",
     "istanbul": "^0.4.2",
     "mocha": "*",
-    "npm-run-all": "^1.5.1"
+    "npm-run-all": "^4.0.2"
   },
   "engines": {
     "node": ">= 0.6.0"
